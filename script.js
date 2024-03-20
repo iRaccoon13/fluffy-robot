@@ -22,5 +22,4 @@ i = 0
 while (true) {
     i++
     fib(sqrt(i, 3));
-    
 }
